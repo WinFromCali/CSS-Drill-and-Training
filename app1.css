@@ -1,0 +1,12 @@
+.highlight{
+    background: yellow;
+}
+
+input, label, button{
+    display: block
+}
+
+[style]{
+    height: 100px;
+    display: inline-block;
+}

@@ -1,0 +1,27 @@
+form{
+    padding: 1em;
+    margin: 0 auto;
+    width: 170px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 1px black;
+    background: url(https://i.redd.it/yvx8a0rpmxf51.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+input, label{
+    display: block;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}

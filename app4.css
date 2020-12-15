@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline line-through overline;
+    text-align: center;
+}
+
+main{
+    margin-left: 5em;
+}
+
+input, label{
+    display: block;
+}

@@ -1,0 +1,108 @@
+body{
+    font-family: 'Lato', sans-serif ;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.text-blue{
+    color: blue;
+}
+
+.w-bold{
+    font-weight: bold;
+}
+
+.boxes{
+    margin: 1em;
+    padding: 1em;
+    border: 3px solid red;
+    border-radius: 8px;
+    width: 30em;
+    display: block; 
+    clear: both;
+}
+
+#box1{
+    background-color: rgb(196, 225, 65);
+}
+
+#box2{
+    background-color: rgb(157, 180, 52);
+}
+#box3{
+    background-color: rgb(102, 122, 12);
+}
+
+#box4{
+    background-color: rgb(70, 83, 2);
+}
+
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: white;
+    top: 45px;
+    left: 85px;
+    position: relative;   
+}
+
+h1{
+    color: rgb(153, 0, 0);
+}
+
+.original{
+    color: royalblue;
+}
+
+.additional{
+    color: seagreen;
+}
+
+#rank1{
+    color: orange;
+}
+
+#rank2{
+    color: rgb(201, 130, 0);
+}
+
+#rank3{
+    color: rgb(168, 109, 0);  
+}
+
+#rank4{
+    color: rgb(107, 70, 0); 
+}
+
+#rank5{
+    color: rgb(32, 21, 0); 
+}
+
+.lists{
+    color: orchid;
+}
+
+#star{
+    color: purple;
+}
+
+#wars{
+    color: rebeccapurple;
+}
+
+.last-div{
+    border: 2px solid black;
+}
